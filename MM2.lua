@@ -1,1 +1,1 @@
-https://pastebin.com/raw/qVGL8MQ2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AiRotsScript/mm2-Airots/refs/heads/main/gui", false))() loadstring(game:HttpGet("https://raw.githubusercontent.com/AiRotsScript/source.lua/refs/heads/main/source", false))()
